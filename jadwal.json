@@ -1,0 +1,80 @@
+{
+    "periode": "Juni 2025 - Pola 4 Minggu",
+    "shift_definitions": {
+        "KANTOR": {
+            "display": "Shift Kantor",
+            "waktu_senin_kamis": "07:30 - 16:00 WITA",
+            "waktu_jumat": "07:30 - 16:30 WITA"
+        },
+        "TRANSMISI_PAGI": {
+            "display": "Shift Transmisi Pagi",
+            "waktu_senin_kamis": "07:30 - 16:00 WITA",
+            "waktu_jumat": "07:30 - 16:30 WITA"
+        },
+        "TRANSMISI_MENGINAP": {
+            "display": "Shift Menginap Transmisi",
+            "waktu_senin_kamis": "16:00 - 07:30 WITA",
+            "waktu_jumat": "16:30 - 07:30 WITA",
+            "waktu_weekend": "24 Jam (Sabtu - Minggu)"
+        }
+    },
+    "personel_grup": {
+        "WANITA": [
+            "ALVIANA DAMAYANTI",
+            "INA APRIANA",
+            "RAHMA ELVIRA ARIYANTI"
+        ],
+        "MENGINAP_TETAP": [
+            "RAMAZONA NABABAN",
+            "MUH. FADIL PERKASA",
+            "BAHRIN",
+            "ARI ARDIANSYAH",
+            "ANDI FAIRUL AMRI"
+        ]
+    },
+    "jadwal_transmisi_pagi": {
+        "MINGGU_1": {
+            "SENIN": ["Ramazona", "Bahrin", "Fadil"],
+            "SELASA": ["Riski", "Wira", "Fairul"],
+            "RABU": ["Iswan", "Ari", "Widi", ""],
+            "KAMIS": ["Abdan", "Ramazona", "Bahrin"],
+            "JUMAT": ["Fadil", "Riski", "Wira"]
+        },
+        "MINGGU_2": {
+            "SENIN": ["Fairul", "Iswan", "Ari"],
+            "SELASA": ["Widi", "Abdan", "Fadil"],
+            "RABU": ["Bahrin", "Ramazona", "Riski"],
+            "KAMIS": ["Wira", "Fairul", "Iswan"],
+            "JUMAT": ["Ari", "Widi", "Abdan"]
+        },
+        "MINGGU_3": {
+            "SENIN": ["Ramazona", "Bahrin", "Fadil"],
+            "SELASA": ["Riski", "Wira", "Fairul"],
+            "RABU": ["Iswan", "Ari", "Widi", ""],
+            "KAMIS": ["Abdan", "Ramazona", "Bahrin"],
+            "JUMAT": ["Fadil", "Riski", "Wira"]
+        },
+        "MINGGU_4": {
+            "SENIN": ["Fairul", "Iswan", "Ari"],
+            "SELASA": ["Widi", "Abdan", "Fadil"],
+            "RABU": ["Bahrin", "Ramazona", "Riski"],
+            "KAMIS": ["Wira", "Fairul", "Iswan"],
+            "JUMAT": ["Ari", "Widi", "Abdan"]
+        }
+    },
+    "karyawan": {
+        "ALVIANA DAMAYANTI": { "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/alviana_damayanti.jpg", "phone": "085251469944", "whatsapp": "6285251469944" },
+        "INA APRIANA": { "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/ina_apriana.jpg", "phone": "085158533957", "whatsapp": "6285158533957" },
+        "RAHMA ELVIRA ARIYANTI": { "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/rahma_elvira_ariyanti.jpg", "phone": "081352763910", "whatsapp": "6281352763910" },
+        "MUH. FADIL PERKASA": { "nama_panggilan": "Fadil", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/muh_fadil_perkasa.jpg", "phone": "081346839238", "whatsapp": "6281346839238" },
+        "M. ISWANSYAH NUR": { "nama_panggilan": "Iswan", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/m_iswansyah_nur.jpg", "phone": "085173177156", "whatsapp": "6285173177156" },
+        "ABDAN SYAKURO": { "nama_panggilan": "Abdan", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/abdan_syakuro.jpg", "phone": "085156868501", "whatsapp": "6285156868501" },
+        "ANDI FAIRUL AMRI": { "nama_panggilan": "Fairul", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/andi_fairul_amri.jpg", "phone": "082253460919", "whatsapp": "6282253460919" },
+        "R. AULIA RAHMAN": { "nama_panggilan": "Riski", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/r_aulia_rahman.jpg", "phone": "082179913754", "whatsapp": "6282179913754" },
+        "RAMAZONA NABABAN": { "nama_panggilan": "Ramazona", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/ramazona_nababan.jpg", "phone": "082168093628", "whatsapp": "6282168093628" },
+        "ARI ARDIANSYAH": { "nama_panggilan": "Ari", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/ari_ardiansyah.jpg", "phone": "082251068345", "whatsapp": "6282251068345" },
+        "BAHRIN": { "nama_panggilan": "Bahrin", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/bahrin.jpg", "phone": "082253449895", "whatsapp": "6282253449895" },
+        "WIDHIONO": { "nama_panggilan": "Widi", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/widhiono.jpg", "phone": "082250851085", "whatsapp": "6282250851085" },
+        "WIRA AHMAD GAZALI": { "nama_panggilan": "Wira", "info": "Asisten Teknisi Siaran Pemula", "photo": "photos/wira_ahmad_gazali.jpg", "phone": "085248766203", "whatsapp": "6285248766203" }
+    }
+}
